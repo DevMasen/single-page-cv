@@ -5,7 +5,7 @@
 
 ### A single-page HTML CV to showcase my career history
 ### No CSS used in this project (except some inline styles for color)
-### A Project by roadmap.sh
+### A Project by [roadmap.sh](https://roadmap.sh/projects/single-page-cv)
 ### In this project I used important topic below: 
 - meta tags for SEO 
 - OG tags for better sharing on social media
